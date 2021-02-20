@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Be humble(always),
+Try and Keep up
+
 <!--
 **NamhoGim/NamhoGim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
